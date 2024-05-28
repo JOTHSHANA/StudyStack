@@ -41,6 +41,7 @@ This is another paragraph.
 *****
 
 3. **Bold, Italics, Highlights:** Use **bold**, *italics*, and ==highlighted== text. For example:
+
 **Syntax:**
 
 \*\*This is bold text.\*\* \_This is italic text.\_ \=\=This is highlighted text.\=\=
@@ -60,6 +61,7 @@ This is another paragraph.
 \[Markdown links\]\(https://chatgpt.com/Note.md\)
 
 **Output:**
+
 [[Obsidian Flavored Markdown]]
 [Markdown links](https://chatgpt.com/Note.md)
 
@@ -95,10 +97,14 @@ This is another paragraph.
 **Syntax:**
 
 \- First item
+
 \- Second item
+
 	\-Nested item
 
+
 \1. First item
+
 \2. Second item
 
 **Output:**
@@ -112,12 +118,14 @@ This is another paragraph.
 ******
 
 8. **Task Lists:** Use - [x] for completed tasks and - [ ] for incomplete tasks. For example:
+
 **Syntax:**
 
 \- \[x\] This is a completed task.
 \- \[ \] This is an incomplete task.
 
 **Output:**
+
 - [x]  This is a completed task.
 - [ ]  This is an incomplete task.
 
@@ -126,13 +134,17 @@ This is another paragraph.
 9. **Horizontal Rule:** Use three or more Asterisk, -, or _ for a horizontal line. For example:
 
 **Syntax:**
+
 \*\*\*\*\*\*
+
 **Output:**
+
 output is a horizontal seperating line
 
 ******
 
 10. **Code:** Format code with backticks or code blocks. For example:
+
 **Syntax:**
 
 \`\`\`js
@@ -142,7 +154,9 @@ function fancyAlert(arg) {
 	}
 }
 \`\`\`
+
 **Output:**
+
 ```js
 function fancyAlert(arg) {
 	if(arg) {
@@ -154,14 +168,19 @@ function fancyAlert(arg) {
 ******
 
 11. **Comments:** Format code with \%\%. For example:
+
 **Syntax:**
 
-\%\% 
+\%\%
+
 This is a block comment. 
 
-Block comments can span multiple lines. 
+Block comments can span multiple lines.
+
 \%\%
+
 **Output:**
+
 %% 
 This is a block comment. 
 
@@ -170,9 +189,7 @@ Block comments can span multiple lines.
 
 ******
 # Advanced Formatting Syntax
-
 ******
-
 12. **Tables:** Create tables using vertical bars (|) and hyphens (-). For example:
 
 **Syntax:**
