@@ -1,14 +1,15 @@
 # Basic Formatting Syntax
 ******
-
 1. **Paragraphs:** Use blank lines to separate paragraphs. For example:
 
 **Syntax:**
+
 This is a paragraph.
 
 This is another paragraph.
 
 **Output:**
+
 This is a paragraph.
 
 This is another paragraph.
@@ -16,14 +17,19 @@ This is another paragraph.
 ******
 
 2. **Headings:** Create headings with up to six # symbols. For example:
+
 **Syntax:**
 
 \# Heading 1
+
 \## Heading 2
+
 \### Heading 3
+
 \#### Heading 4
 
 **Output:**
+
 # Heading 1
 
 ## Heading 2
@@ -46,9 +52,11 @@ This is another paragraph.
 ******
 
 4. **Internal Links:** Use [[Wikilinks]] or [Markdown links](Note.md) to link to other notes. For example:
+
 **Syntax:**
 
 \[\[Obsidian Flavored Markdown\]\]
+
 \[Markdown links\]\(https://chatgpt.com/Note.md\)
 
 **Output:**
@@ -58,6 +66,7 @@ This is another paragraph.
 ******
 
 5. **External Links:** Create inline links to URLs. For example:
+
 **Syntax:**
 
 \!\[Engelbart\]\(https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg \)
@@ -70,6 +79,7 @@ This is another paragraph.
 
 
 6. **Quotes:** Format quotes with > symbols. For example:
+
 **Syntax:**
 
 \> Human being face a lot of problems in their life.
@@ -81,6 +91,7 @@ This is another paragraph.
 ******
 
 7. **Lists:** Create unordered and ordered lists. For example:
+
 **Syntax:**
 
 \- First item
@@ -99,7 +110,6 @@ This is another paragraph.
 2. Second item
 
 ******
-
 
 8. **Task Lists:** Use - [x] for completed tasks and - [ ] for incomplete tasks. For example:
 **Syntax:**
