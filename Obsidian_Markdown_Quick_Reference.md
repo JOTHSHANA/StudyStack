@@ -149,9 +149,13 @@ output is a horizontal seperating line
 
 \`\`\`js
 function fancyAlert(arg) {
+
 	if(arg) {
+ 
 		$.facebox({div:'#foo'})
+  
 	}
+ 
 }
 \`\`\`
 
@@ -162,7 +166,8 @@ function fancyAlert(arg) {
 	if(arg) {
 		$.facebox({div:'#foo'}) 
 	} 
-} ```
+}
+```
 
 
 ******
@@ -207,13 +212,17 @@ Block comments can span multiple lines.
 ******
 
 13. **Diagrams:** Use Mermaid for creating diagrams. For example:
+
 **Syntax:**
+
 \`\`\`mermaid 
+
 sequenceDiagram 
 	Alice-\>\>\+John: Hello John, how are you? 
 	Alice-\>\>\+John: John, can you hear me? 
 	John--\>\>-Alice: Hi Alice, I can hear you! 
 	John--\>\>-Alice: I feel great! 
+ 
 \`\`\`
 
 **Output:**
@@ -232,20 +241,25 @@ John-->>-Alice: I feel great!
 14. **Add a Tag:** Use # followed by a keyword. For example:
 
 **Syntax:**
+
 \#meeting
 
 **Output:**
+
 #meeting
 
 
 15. 18. **Nested Tags:** Create hierarchies with forward slashes (/) in tag names. For example:
 **Syntax:**
+
 \#inbox\/to-read
 
 **Output:**
+
 #inbox/to-read
 
 
 *****
+
 ### To know more about obsidian and Markdown [Visit Site](https://help.obsidian.md/Home)
 
