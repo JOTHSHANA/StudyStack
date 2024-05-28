@@ -253,7 +253,8 @@ John-->>-Alice: I feel great!
 #meeting
 
 
-15. 18. **Nested Tags:** Create hierarchies with forward slashes (/) in tag names. For example:
+15. **Nested Tags:** Create hierarchies with forward slashes (/) in tag names. For example:
+
 **Syntax:**
 
 \#inbox\/to-read
