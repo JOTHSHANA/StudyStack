@@ -17,7 +17,7 @@ Flowcharts are visual representations of the steps or processes involved in a pr
 
 ###### Prime/not
 
-![[Pasted image 20240604185313.png]]
+![[primeNum_Flochart.png]]
 
 
 
